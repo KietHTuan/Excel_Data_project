@@ -10,7 +10,13 @@ This repository contains an Excel file that demonstrates my expertise in applyin
   This Excel file includes statistical models and techniques for comparing datasets across various business scenarios. The models are designed to help in:
   - Analyzing trends and identifying significant differences between datasets
   - Applying hypothesis testing and other statistical methods
-  - Visualizing data to communicate insights effectively
+
+- **Multivariate Regression.xlsx**  
+  This Excel file includes my techniques in Multivariate regression:
+  -Framing the problem
+  -Perform Regression analysis
+  -Check and evaluate model performance and assumptions
+    
 
 ## Key Features
 

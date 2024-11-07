@@ -13,9 +13,9 @@ This repository contains an Excel file that demonstrates my expertise in applyin
 
 - **Multivariate Regression.xlsx**  
   This Excel file includes my techniques in Multivariate regression:
-  -Framing the problem
-  -Perform Regression analysis
-  -Check and evaluate model performance and assumptions
+  - Framing the problem
+  - Perform Regression analysis
+  - Check and evaluate model performance and assumptions
     
 
 ## Key Features

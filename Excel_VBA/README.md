@@ -1,5 +1,10 @@
 # Stock_Watchlist SP500 Heatmap
 
+![image](https://github.com/user-attachments/assets/b60dbae4-1dfe-4a7e-ab7b-5025fa967d69) 
+
+![image](https://github.com/user-attachments/assets/046661ed-6e0b-46b9-98d9-bfe59675994c)
+
+
 ### Overview
 
 **Stock_Watchlist** is an Excel-based tool designed for live stock research and monitoring. This project demonstrates advanced Excel and VBA skills, including the creation of an interactive heatmap that can refresh itself automatically at set intervals. The tool is focused on data manipulation, organization, and accuracy—essential for effective financial analysis.
